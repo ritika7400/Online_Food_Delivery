@@ -1,3 +1,3 @@
 Online_Food_Delivery - The website provides a delightful online platform for users to explore, discover, and engage with a wide range of gastronomic experiences.The website boasts an appealing and user-friendly interface that enhances the overall browsing experience. It features a visually captivating design, incorporating high-quality food images, vibrant colors, and intuitive navigation, ensuring that visitors are immediately drawn to the mouthwatering content.
-One of the key highlights of the food website is its extensive collection of recipes from diverse cuisines, catering to different tastes and dietary preferences. Users can browse through a vast array of recipes, ranging from traditional classics to innovative and trending dishes.
-The website is built using a combination of HTML, CSS, JavaScript allowing for seamless functionality and an enjoyable user experience.
+
+
